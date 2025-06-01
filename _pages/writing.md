@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Writing"
+permalink: /writing/
 author_profile: true
 redirect_from:
-  - /resume
+  - /blog
 ---
 
 {% include base_path %}
 
-Your CV content here...
+Your papers content here...
