@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Your CV content here...
+2025: Hopkins PhD
+2023-2025: Seek.ai Senior Research Scientist
+2018-2022: Columbia University B.S. in Applied Math, M.S. in Operations Research
