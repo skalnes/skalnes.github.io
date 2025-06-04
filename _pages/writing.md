@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a question of expected future importance: What data should an agent choose to collect based on it's current status/state/introspective-self-representation
+I **will** start a blog and it **will** not be read by anyone

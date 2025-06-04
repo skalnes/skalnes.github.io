@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-All my papers are too paradigm-shifting to publish at the moment
+Stay tuned for paradigm-shifting work
