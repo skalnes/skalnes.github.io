@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I **will** start a blog and it **will** not be read by anyone
+I **will** start a blog about stuff I find interesting
