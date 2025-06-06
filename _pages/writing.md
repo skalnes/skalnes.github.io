@@ -12,7 +12,7 @@ redirect_from:
 This is where I'd put my blog, if I had one
 
 
-## Musings and Observations of a Bumbling Madman
+## Musings of a Madman
 
 {% for post in site.posts limit:10 %}
   * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
