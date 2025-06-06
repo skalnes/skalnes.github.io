@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Stay tuned for paradigm-shifting work
+This is where I'd put my papers, if I had any

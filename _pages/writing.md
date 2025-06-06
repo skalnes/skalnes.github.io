@@ -9,4 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I **will** start a blog about stuff I find interesting
+This is where I'd put my blog, if I had one
+
+
+## Musings and Observations of a Bumbling Madman
+
+{% for post in site.posts limit:10 %}
+  * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
