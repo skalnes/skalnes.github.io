@@ -10,3 +10,14 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "mutex_m"
+gem "drb"
+gem "nkf"
+gem "observer"
+gem "syslog"
+gem "benchmark"
+gem "logger"
+gem "ostruct"

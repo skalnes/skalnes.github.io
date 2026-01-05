@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-This is where I'd put my papers, if I had any
+No papers yet
 
-![Papers: If I had any](/images/papers_ifIhadany.jpg)
