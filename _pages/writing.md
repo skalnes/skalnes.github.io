@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Another Incompleteness Theorem]({{ base_path }}/files/2026-02-02-SkillIssueIncompThm.pdf)
