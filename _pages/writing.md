@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Mathematics 
-
 ## Sampling Theory
 
 [Probability Proportional to Size]({{ base_path }}/files/2026-02-24_PPS.pdf)
