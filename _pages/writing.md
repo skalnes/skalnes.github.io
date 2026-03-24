@@ -13,6 +13,6 @@ redirect_from:
 
 [Probability Proportional to Size]({{ base_path }}/files/2026-02-24_PPS.pdf)
 
-## Humor
+## PhD Life
 
 [Skill Issue Incompleteness Theorem]({{ base_path }}/files/2026-02-02-SkillIssueIncompThm.pdf)
