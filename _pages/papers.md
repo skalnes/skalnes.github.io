@@ -13,7 +13,7 @@ redirect_from:
 
 ## LLM Judges
 
-Humans expensive so have an LLM tell you if responses are good instead.
+Humans are expensive, so have an LLM tell you if responses are good instead.
 
   - [Evaluating Rubric Generation with Interventional Transfer](https://arxiv.org/abs/2610.10809)
 
@@ -26,7 +26,7 @@ Get a smaller confidence interval with the same number of samples.
 
 
 ## Causal Inference
-Predict the effect of your randomized trial without having to actually do it. 
+Predict the effect of a randomized trial without having to actually do it. 
 
   - (UAI 2026) [Bounding the Causal Impact of ML-assisted Decision-Making via Counterfactual Correctness](https://arxiv.org/abs/2607.21806)
 

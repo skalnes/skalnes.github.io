@@ -14,6 +14,14 @@
     @include prefix(0.5 of 12);
   }
 
+  /* use the full width when the page has no sidebar */
+  &.archive--wide {
+    @include breakpoint($large) {
+      @include span(12 of 12);
+      padding-left: 0;
+    }
+  }
+
   a {
     text-decoration: underline;
 
