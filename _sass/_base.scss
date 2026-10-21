@@ -61,6 +61,12 @@ p {
   margin-bottom: 1.3em;
 }
 
+/* keep a list close to the line that introduces it */
+p + ul,
+p + ol {
+  margin-top: -1em;
+}
+
 u,
 ins {
   text-decoration: none;

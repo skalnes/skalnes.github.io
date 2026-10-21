@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Erik Skalnes"
 title_separator          : "-"
 name                     : &name "Erik Skalnes"
 description              : &description "personal description"
@@ -14,7 +14,7 @@ repository               : "skalnes/skalnes.github.io"
 author:
   name             : "Erik Skalnes"
   avatar           : "profile.png"
-  bio              : "PhD in Computer Science"
+  bio              : "PhD student, Computer Science"
   location         : "Johns Hopkins"
   linkedin         : "erik-skalnes"
 
@@ -89,6 +89,7 @@ exclude:
   - local
   - log
   - node_modules
+  - notes.txt
   - package.json*
   - Rakefile
   - README

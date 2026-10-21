@@ -10,8 +10,8 @@ RUN apt-get update && apt-get install -y \
 # Set working directory
 WORKDIR /usr/src/app
 
-# Copy Gemfile and Gemfile.lock for dependencies
-COPY Gemfile Gemfile.lock ./
+# Copy Gemfile for dependencies. Gemfile.lock is gitignored, so bundler resolves it fresh.
+COPY Gemfile ./
 
 # Install gems
 RUN gem install bundler:2.3.26 && bundle install
